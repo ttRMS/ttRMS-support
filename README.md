@@ -2,7 +2,7 @@
 <img height="180" src="https://user-images.githubusercontent.com/29926144/115165984-0a9f7080-a06e-11eb-9f9a-6bc01e1d5f14.png">
 
 # ttRMS-support
-Wiki & public issue tracker for ttRMS
+###### *Wiki & public issue tracker for ttRMS*
 
 </div>
 
