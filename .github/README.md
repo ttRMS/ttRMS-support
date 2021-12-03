@@ -2,7 +2,7 @@
 <img height="180" src="https://user-images.githubusercontent.com/29926144/115165984-0a9f7080-a06e-11eb-9f9a-6bc01e1d5f14.png">
 
 # ttRMS Support
-###### *Wiki & public issue tracker for [ttRMS](https://ttrms.io/)*
+###### *Public issue tracker for [ttRMS](https://ttrms.io/)*
 
 </div>
 
@@ -10,7 +10,6 @@
 
 - **[Request a feature][1]**
 - **[Report a bug][2]**
-- Wiki coming soon
 - *Please message us directly if you find a security flaw*
 
 [1]: https://github.com/ttRMS/ttRMS-support/issues/new?assignees=&labels=feature&template=feature_request.md&title=%5BFEATURE%5D+add+a+title
